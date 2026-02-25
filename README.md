@@ -4,6 +4,14 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 This portfolio is currently in active development, with ongoing updates to features, content, and design.
 
+## Tech Stack
+
+- Next.js 16 (App Router)
+- React 19
+- TypeScript 5
+- Tailwind CSS 4
+- ESLint 9
+
 ## Getting Started
 
 First, run the development server:
