@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Project Status
+
+This portfolio is currently in active development, with ongoing updates to features, content, and design.
+
 ## Getting Started
 
 First, run the development server:
